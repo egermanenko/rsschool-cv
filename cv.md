@@ -1,31 +1,31 @@
-#Eugene Germanenko
+# Eugene Germanenko
 ******************
-##My Contacts
+## My Contacts
 * __Location:__ Dnipro, Ukraine
 * __Phone number:__ +380973759716
 * __Email:__ germanenkoea@gmail.com 
 * __GitHub:__ [egermanenko](https://github.com/egermanenko/)
 
-##About Me
+## About Me
 I work as an Internet marketer and head of SEO in ecommerce. I want to become a frontend developer. And I hope that RSS will help me in this. I have good communication and analytical skills. 
 
-##Skills
+## Skills
 - SEO
 - Google Analytics, Google Search Console
 - HTML (basic)
 
-##Code Example
+## Code Example
 ```
 function multiply(a, b){
   return a * b
 }
 ```
 
-##Education
+## Education
 * [Ukrainian State University of Science and Technologies - (Dnipro)](http://diit.edu.ua/)
 * [freeCodeCamp](https://www.freecodecamp.org/)
 
-##Languages
+## Languages
 * Ukrainian - Advanced
 * Russian - Native
 * English - A2
